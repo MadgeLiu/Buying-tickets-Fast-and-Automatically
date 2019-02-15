@@ -13,7 +13,7 @@ Nowadays more and more people prefer to buy tickets, like air tickets, train tic
 ## [Architecture-of-Algorithm](#Architecture-of-Algorithm)
 ### flowchart
 ![](https://github.com/MidgeLiu/Buying-tickets-Fast-and-Automatically/raw/master/flowchart.png "flowchart")
-### function
+### functions
 * Automatically open and switch the website we want. 
 * Automatically input departure, destination and data.
 * Read kinds of information on the website.
