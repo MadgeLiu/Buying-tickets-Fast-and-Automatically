@@ -2,13 +2,13 @@
 This is a individual project of course EE551(Python), and the author of it is Yarong Liu 
 
 
-## Introduction
+## [Introduction](#Introduction)
 Nowadays more and more people prefer to buy tickets, like air tickets, train tickets, on the website. But there are always some bad situations that our favorite tickets or the tickets fit our schedule have been sold out. In this case, what we really want to have is a monitor, which could help us monitor whether the website have a seat that fit the requirement of customer at every second, if the monitor finds this specific ticket, it could place the order fast and automatically. This project is to using Python to create a machine helping customers buy train tickets what they want automatically 
 [on this website](https://www.12306.cn "a chinese train website")
 
 
 ## Architecture of Algorithm
-![flowchart](https://github.com/MidgeLiu/Buying-tickets-Fast-and-Automatically/raw/master/flowchart.png)
+![](https://github.com/MidgeLiu/Buying-tickets-Fast-and-Automatically/raw/master/flowchart.png "flowchart")
 
 
 ## Future Plan
