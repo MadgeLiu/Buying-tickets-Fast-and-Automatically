@@ -8,7 +8,7 @@ Nowadays more and more people prefer to buy tickets, like air tickets, train tic
 
 
 ## Architecture of Algorithm
-![flowchar]()
+![](https://github.com/MidgeLiu/Buying-tickets-Fast-and-Automatically/raw/master/flowchart.png)
 
 
 ## Future Plan
