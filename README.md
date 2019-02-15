@@ -7,11 +7,12 @@ Nowadays more and more people prefer to buy tickets, like air tickets, train tic
 [on this website](https://www.12306.cn "a chinese train website")
 
 
-## Architecture of Algorithm
+## [Architecture of Algorithm](#Architecture of Algorithm)
+
 ![](https://github.com/MidgeLiu/Buying-tickets-Fast-and-Automatically/raw/master/flowchart.png "flowchart")
 
 
-## Future Plan
+## [Future Plan](#Future Plan)
 If I could achieve the basic function in advance, I will try my best to achieve other functions as following:
 * Automatically log in ticketing website.
 * Send email or message to customers when the machine monitor the ticket which fits customer requirement.
