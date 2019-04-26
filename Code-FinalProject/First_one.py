@@ -1,3 +1,7 @@
+# Author: Yarong Liu
+# Function: Using selenium package in python which can achieve  operate the website automatically
+#           I use this package to achieve order train ticket in Chinese Website automatically
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
