@@ -12,7 +12,7 @@ In China🇨🇳, going home and being with family in Spring Festival is necessa
 
 
 ## [Project-Solution](#Project-Solution)
-In Python, there is selenium package which can achieve operate the website automatically, so I use this package to achieve order train ticket in Chinese Train Offical Website automatically. Methods and Classes in this package such as webdriver, WebDriverWait, expected_conditions etc. is really useful to me to achieve my project. Using that I achieve the following functions:
+In Python, there is selenium package which can achieve operating the website automatically, so I use this package to achieve ordering train ticket in Chinese Train Offical Website automatically. Methods and Classes in this package such as webdriver, WebDriverWait, expected_conditions etc. is really useful to me to achieve my project. Using that I achieve the following functions:
 * Automatically open and switch the website we want. 
 * Read kinds of information on the website.
 * Press the specific buttons on the website.
@@ -27,4 +27,4 @@ Finally, this project help people order ticket immediately and automatically. I 
 
 ## [Future-Plan](#Future-Plan)
 If I could achieve the basic function in advance, I will try my best to achieve other function as following:
-Do another similar project which help customers buying discounted product successfully in a very short time.
+* Do another similar project which help customers buying discounted product successfully in a very short time.
