@@ -1,5 +1,5 @@
 # Buying-tickets-Fast-and-Automatically
-This is a individual project of course EE551 `Python`.
+This is a individual project of course EE551 Python.
 
 |Author|Yarong Liu|
 |---|---
